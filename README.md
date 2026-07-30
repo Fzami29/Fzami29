@@ -61,7 +61,7 @@ Building scalable web applications, AI-powered solutions, and modern SaaS produc
 - ADSAFE
 
 <p align="center">
-<img src="algorism-2026-first-prize.png" width="850" alt="Algorism 2026 First Prize Certificate">
+<img src="algorism-2026-first-prize.png.JPG" width="850" alt="Algorism 2026 First Prize Certificate">
 </p>
 
 ---
