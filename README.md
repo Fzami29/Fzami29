@@ -23,22 +23,52 @@ Building scalable web applications, AI-powered solutions, and modern SaaS produc
 💻 Open Source Enthusiast
 </p>
 
+<p align="center">
+
+🥇 <b>First Prize Winner • Algorism 2026 AI Hackathon</b>
+
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Passionate Full Stack Developer.
-- 🏡 Founder of **Naaz Verify**, a property document verification platform.
+- 💻 Passionate Full Stack Developer from Karnataka, India.
+- 🏡 Founder of **Naaz Verify**, an AI-powered Property Document Verification Platform.
 - 🕋 Founder of **Naaz Hajj Umrah Travels**.
-- 🌱 Currently learning **Next.js, AI Integration, PostgreSQL, Backend Development, and System Design**.
-- 🚀 Love building real-world SaaS products.
-- 🎯 Goal: Build successful technology companies.
+- 🥇 Winner of **First Prize – Algorism 2026 AI Hackathon**.
+- 🌱 Currently learning **Next.js, AI Integration, PostgreSQL, Backend Development, System Design & Cloud Technologies**.
+- 🚀 Passionate about building scalable SaaS products that solve real-world problems.
+- 🎯 Goal: Build successful technology companies with global impact.
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Achievements
 
-<p align="left">
+## 🥇 First Prize — Algorism 2026 AI Hackathon
+
+> Proudly awarded **First Prize** at **Algorism 2026 AI Hackathon** as a member of **Team Naaz Verify** for developing an AI-powered Property Document Verification Platform.
+
+📅 **Date:** 26 July 2026
+
+📍 **Venue:** Whatfix Towers, HSR Layout, Bengaluru
+
+🤝 **Presented By**
+
+- Whatfix
+- KLE Technological University
+- Bearys Institute of Technology
+- ADSAFE
+
+<p align="center">
+<img src="algorism-2026-first-prize.png" width="850" alt="Algorism 2026 First Prize Certificate">
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="mailto:zameermakandar25@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -60,7 +90,7 @@ Building scalable web applications, AI-powered solutions, and modern SaaS produc
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -70,43 +100,51 @@ Building scalable web applications, AI-powered solutions, and modern SaaS produc
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏡 Naaz Verify
+## 🏡 Naaz Verify
 
-Professional Property Document Verification Platform
+🏆 **First Prize Winner – Algorism 2026 AI Hackathon**
 
-**Features**
+AI-powered Property Document Verification Platform designed to simplify land document verification using official government records.
 
-- Customer Portal
-- Admin Portal
-- CSC Portal
-- Employee Portal
-- Property Verification Workflow
-- Secure Authentication
-- Payment Integration
-- Report Management
+### Features
 
-**Tech Stack**
+- ✅ Customer Portal
+- ✅ Admin Dashboard
+- ✅ CSC Partner Portal
+- ✅ Employee Portal
+- ✅ Secure Authentication
+- ✅ Property Verification Workflow
+- ✅ Payment Integration
+- ✅ Report Generation
+- ✅ Document Upload & Download
+
+### Tech Stack
 
 Next.js • React • TypeScript • Tailwind CSS • Supabase • PostgreSQL
 
 ---
 
-### 🕋 Naaz Hajj Umrah Travels
+## 🕋 Naaz Hajj Umrah Travels
 
-Professional Hajj & Umrah Travel Platform
+Professional Hajj & Umrah Travel Management Platform
 
-**Features**
+### Features
 
-- Package Management
-- Customer Inquiry
-- Booking System
-- Travel Information
+- ✅ Online Package Inquiry
+- ✅ Package Management
+- ✅ Customer Support
+- ✅ Booking Workflow
+- ✅ Contact System
+
+### Tech Stack
+
+HTML • CSS • JavaScript
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -124,7 +162,7 @@ Professional Hajj & Umrah Travel Platform
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -134,7 +172,7 @@ Professional Hajj & Umrah Travel Platform
 
 ---
 
-## 📈 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -144,7 +182,7 @@ Professional Hajj & Umrah Travel Platform
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 
@@ -154,10 +192,14 @@ Professional Hajj & Umrah Travel Platform
 
 ---
 
+<h2 align="center">⭐ Thanks for Visiting My Profile!</h2>
+
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+<b>"Building technology that solves real-world problems."</b>
 
-Building technology that solves real-world problems.
+</p>
 
+<p align="center">
+🚀 Keep Learning • Keep Building • Keep Innovating
 </p>
